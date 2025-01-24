@@ -17,12 +17,24 @@ ___________________Detail of this software :
 SEQ or sequence contain this elements  Seq-1, Seq-2, Seq-3, Seq-4, Seq-5, Seq-6, Seq-7, Seq 8.
 
 
-Seq 1 ) 01010101010 10 digit
-Seq 2 ) 01010101010 10 digit
-Seq 3 ) 01010101010 10 digit
-Seq 4 ) 01010101010 10 digit
-Seq 5 ) 01010101010 10 digit
-Seq 6 ) 01010101010 10 digit
-Seq 7 ) 01010101010 10 digit
-Seq 8 ) 01010101010 10 digit
+Seq 1 ) 01010101010 10 digit bin
+Seq 2 ) 01010101010 10 digit bin 
+Seq 3 ) 01010101010 10 digit bin 
+Seq 4 ) 01010101010 10 digit bin 
+Seq 5 ) 01010101010 10 digit bin 
+Seq 6 ) 01010101010 10 digit bin 
+Seq 7 ) 01010101010 10 digit bin 
+Seq 8 ) 01010101010 10 digit bin 
+
+Note: All sequence have total 80 digit binari and the progession are like ascii table.
+
+This in an example of the table but for any sequence of binary (up) we associate our custom dictionary.
+0000 -> A
+0001 -> B
+0010 -> C
+0011 -> D
+0100 -> E
+0101 -> F
+0111 -> G
+1111 -> H
 
