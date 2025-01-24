@@ -1,4 +1,4 @@
-This project generate a QR Code for any file for share with your friends in easy way like a book.
+This project generate a QR Code for any file for share with your friends in easy way like a book. 
 
 
 
